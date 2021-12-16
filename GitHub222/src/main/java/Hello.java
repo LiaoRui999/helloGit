@@ -7,5 +7,6 @@ public class Hello {
         System.out.println("添加文件");
         System.out.println("分支添加文件");
         System.out.println("主干在第9行添加文件");
+        System.out.println("分支在第9行添加文件");
     }
 }
